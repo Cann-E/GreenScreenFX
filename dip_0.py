@@ -1,4 +1,4 @@
-"""dip_hw0.py: Starter file to run homework 0"""
+
 
 __author__ = "Khadija Khaldi"
 # revised by Zhenggang Li
