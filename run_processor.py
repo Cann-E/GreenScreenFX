@@ -1,10 +1,5 @@
 
 
-__author__ = "Khadija Khaldi"
-# revised by Zhenggang Li
-# revised by Shishir Shah
-# revised by Pranav Mantini
-__version__ = "1.0.1"
 
 from dip import *
 import sys
