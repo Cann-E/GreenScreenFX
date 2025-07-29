@@ -45,13 +45,13 @@ Each pixel in the foreground image is compared to a target green value. If it's 
 
 | Original | Horizontal Flip | Vertical Flip |
 |----------|------------------|----------------|
-| ![Compass](acompass.jpg) | ![Horizontal](flipped_horizontal.jpg) | ![Vertical](flipped_vertical.jpg) |
+| ![Compass](compass_image.jpg) | ![Horizontal](flipped_horizontal.jpg) | ![Vertical](flipped_vertical.jpg) |
 
 ### Chroma Keying
 
 | Foreground | Background | Result |
 |------------|------------|--------|
-| ![Falcon](falcon.png) | ![DStar](adstar.png) | ![Result](chroma_keyed.jpg) |
+| ![Falcon](falcon.png) | ![DStar](dstar.png) | ![Result](chroma_keyed.jpg) |
 
 ## ▶️ Usage
 
